@@ -1,0 +1,47 @@
+,City,Country,City Latitude,City Longitude,Hotel Name,Hotel Lat,Hotel Lng,Hotel Address
+0,rikitea,PF,-23.1203,-134.9692,People ThankYou,-23.1206197,-134.9687529,Gambier
+1,emerald,AU,-23.5333,148.1667,Emerald Maraboon Motor Inn,-23.5165462,148.1575319,"5 Esmond St, Emerald"
+2,yafran,LY,32.0633,12.5286,فندق يفرن السياحي,32.0598752,12.5191104,Yefren
+3,halle,DE,51.5,12.0,ibis budget Hotel Halle Peissen,51.5132657,12.0593381,"Rudolf-Walther-Straße 3, Landsberg"
+4,tadine,NC,-21.55,167.8833,,,,
+5,ponta do sol,CV,32.6667,-17.1,Palace of Zinos,32.6815696,-17.086568,"VE3 10, Ponta do Sol"
+6,sao borja,BR,-28.6606,-56.0044,Al-Manara Hotel,-28.65944129999999,-56.0026622,"Av. Pres. Vargas, 1913 - Centro, São Borja"
+7,walvis bay,,-22.9575,14.5053,Protea Hotel by Marriott Walvis Bay Pelican Bay,-22.9613616,14.4827297,"The Esplanade, Walvis Bay"
+8,caconda,AO,-13.7333,15.0667,,,,
+9,flin flon,CA,54.7682,-101.865,Victoria Inn Flin Flon,54.7687301,-101.8431759,"# 160 Hwy 10-A north, Flin Flon"
+10,kabare,CD,-2.4683,28.8242,Hôtel Panorama,-2.4898482,28.8566798,Bukavu
+11,biloela,AU,-24.4167,150.5,Biloela Countryman Motel,-24.4098205,150.5177917,"75-83 Burnett Hwy, Biloela"
+12,verkhoyansk,RU,67.5447,133.385,,,,
+13,yulara,AU,-25.2406,130.9889,Sails in the Desert,-25.2390223,130.9834051,"163 Yulara Dr, Yulara"
+14,namibe,AO,-15.1961,12.1522,Hotel Chik Chik Namibe,-15.1978317,12.1575544,Namibe
+15,svetlogorsk,RU,52.6333,29.7333,Hotel Svetlogorsk JBIK,52.6290039,29.76210499999999,"Internatsionalnaya str 2A, Svietlahorsk"
+16,bethel,US,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel",41.4097479,-73.415831,"80 Newtown Rd, Danbury"
+17,ivankiv,UA,50.9386,29.8943,Tanya+Petya,50.93304329999999,29.9084671,"вулиця Лесі Українки Смт, Ivankiv"
+18,margate,ZA,51.3813,1.3862,Botany Bay Hotel,51.3876019,1.4369146,"Marine Dr, Kingsgate, Broadstairs"
+19,carnarvon,AU,-24.8667,113.6333,The Gascoyne Hotel,-24.883085,113.6550593,"57 Olivia Terrace, Carnarvon"
+20,belyy,RU,55.8402,32.9419,"Hotel ""obshatsya""",55.837083,32.9359236,"Ulitsa Lenina, 25, Bely"
+21,magrath,CA,49.4167,-112.8686,Covered Wagon RV Park,49.4065398,-112.8729794,"234 5 Ave S, Magrath"
+22,asfi,MA,32.2994,-9.2372,Hôtel Atlantique panorma,32.3229341,-9.2569055,Sidi Bouzid PB 280، Safi
+23,girua,BR,-28.0283,-54.3497,Colinas Hotel,-28.0257588,-54.3720513,"RS 344, km 63 s/n, Giruá"
+24,pocone,BR,-16.2567,-56.6228,Hotel e Churrascaria Pantaneira,-16.2737636,-56.62496179999999,"Estr. Transpantaneira, 0 - Centro, Poconé"
+25,nantucket,US,41.2835,-70.0995,Greydon House,41.2853397,-70.09941529999999,"17 Broad St, Nantucket"
+26,poum,NC,-20.2333,164.0167,,,,
+27,vernon,US,50.2581,-119.2691,Prestige Vernon Lodge and Conference Centre,50.2714379,-119.2747856,"3914 32 St, Vernon"
+28,henties bay,,-22.116,14.2845,Desert Rendezvous,-22.1217516,14.2864826,"238 Strandloper, Hentiesbaai"
+29,saint-francois,GP,46.4154,3.9054,,,,
+30,burmakino,RU,57.4166,40.2369,,,,
+31,harlow,GB,51.7766,0.1116,Manor of Groves,51.8122509,0.1160553,"High Wych, Sawbridgeworth"
+32,williston,US,48.147,-103.618,Quality Inn Williston,48.165753,-103.6376474,"1001 24th St W, Williston"
+33,acucena,BR,-19.0731,-42.5464,,,,
+34,vilhena,BR,-12.7406,-60.1458,Hotel Mirage,-12.7406969,-60.1406974,"Av. Maj. Amarante, 3536 - Centro, Vilhena"
+35,kalabo,ZM,-14.97,22.6814,HM Sams Lodge,-15.0012365,22.6630739,Zambia
+36,alta floresta,BR,-9.8756,-56.0861,Hotel Caleche Park Hotel,-9.8855209,-56.0773391,"Av. Perimetral Rogério Silva, 1850 - Centro, Alta Floresta"
+37,mineiros,BR,-17.5694,-52.5511,Dallas Hotel,-17.5663553,-52.5497891,"Av. Alessandro, Av. Irmäos Marchio, 223 - Centro, Mineiros"
+38,inhambane,MZ,-23.865,35.3833,Sentidos Beach Retreat,-23.887821,35.39576,"Praia da Barra, Bairro Conguiana, Inhambane"
+39,mopipi,BW,-21.1833,24.8833,,,,
+40,beitbridge,ZW,-22.2167,30.0,Beitbridge Inn and Casino,-22.2137771,29.9912988,"No. 15, Old Border Post Road"
+41,ankazobe,MG,-18.3167,47.1167,,,,
+42,barra do garcas,BR,-15.89,-52.2567,Odara Araguaia,-15.8903057,-52.252843,"Av. Salomé José Rodrigues, 365 - Cidade Velha, Barra do Garças"
+43,druzhba,UA,52.0428,33.9453,,,,
+44,san matias,BO,-16.3667,-58.4,"HOTEL ""LAS AMERICAS""",-16.3611749,-58.4002767,"Unnamed Road, San Matías"
+45,torrington,US,41.8007,-73.1212,Days Inn by Wyndham Torrington,41.8070189,-73.11059019999999,"492 E Main St, Torrington"
